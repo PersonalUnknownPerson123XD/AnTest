@@ -1,1 +1,1 @@
-nothing
+std::cout << "waa";
